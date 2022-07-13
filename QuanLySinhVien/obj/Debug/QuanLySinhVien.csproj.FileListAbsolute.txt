@@ -1,0 +1,185 @@
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmDangNhap.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmDoiMatKhau.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmDSThiLai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmLop.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmQLDiem.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmQLDiemHoclai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmQLDiemThiLai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmQLSV.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmQuanLyNguoiDung.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.frmTimDiemSV.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.ReportDSSV.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.ReportDSThilai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.ReportTongKet.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.SVThilaivaHoclai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.Trogiup.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\Quản lý điểm sinh vien CNTT\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhap.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDoiMatKhau.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSThiLai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiem.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemHoclai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemThiLai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLSV.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQuanLyNguoiDung.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimDiemSV.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportDSSV.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportDSThilai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportTongKet.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SVThilaivaHoclai.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Trogiup.resources
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\De Tai Quan Ly Diem Sinh Vien He Dan Su\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhap.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDoiMatKhau.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSThiLai.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiem.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemHoclai.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemThiLai.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLSV.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQuanLyNguoiDung.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimDiemSV.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportDSThilai.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SVThilaivaHoclai.resources
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\AdvancedDataGridView.dll
+C:\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\AdvancedDataGridView.dll
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhap.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDoiMatKhau.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSThiLai.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiem.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemHoclai.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemThiLai.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLSV.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQuanLyNguoiDung.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimDiemSV.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportDSThilai.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SVThilaivaHoclai.resources
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\halle\Downloads\BTL1\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\AdvancedDataGridView.dll
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhap.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDoiMatKhau.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSThiLai.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiem.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemHoclai.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemThiLai.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLSV.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQuanLyNguoiDung.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimDiemSV.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportDSThilai.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SVThilaivaHoclai.resources
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Visual Studio Projects\Project C Any\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.xml
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\AdvancedDataGridView.dll
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\bin\Debug\Microsoft.ReportViewer.WebForms.xml
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDangNhap.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDoiMatKhau.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmDSThiLai.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLop.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKhoa.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMonHoc.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiem.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemHoclai.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLDiemThiLai.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQLSV.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmQuanLyNguoiDung.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTimDiemSV.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.ReportDSThilai.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SVThilaivaHoclai.resources
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\ADMIN\Downloads\Compressed\BTL\Programs\quanlysinhvien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
