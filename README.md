@@ -1,1 +1,1 @@
-# QuanLySinhVien-.Net-C-
+BTL Quản lí sinh viên C# .Net
